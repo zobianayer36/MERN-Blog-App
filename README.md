@@ -21,12 +21,12 @@ Clone the project
   git clone https://github.com/Khushwant-Manglani/MERN-Blog-App
   
 Go to client folder
-  
-  npm install
+      
+      npm install
 
 Go to api folder
 
-  npm install
+      npm install
 
 Start the server
 
